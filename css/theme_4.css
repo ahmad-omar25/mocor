@@ -1,0 +1,45 @@
+/**** Start Default Theme ****/ 
+
+/* Active Link */ 
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.carousel-indicators .active,
+.optino-box .gear-check,
+.footer a,
+.optino-box button,
+.subscribe button,
+.contact-us button
+{
+    background-color: #00ff439e;
+    
+}
+
+.about h1 span,
+.testimonials .item span,
+.navbar-inverse .navbar-brand span,
+.footer h3,
+.footer .copyright span,
+.optino-box h4
+
+{
+    color: #00ff439e
+}
+
+
+.optino-box .color-option,
+.testimonials .carousel-indicators li.active
+{
+     border: 3px solid #00ff439e;
+}
+
+
+.dropdown-menu 
+{
+    border-top: 3px solid #00ff439e;
+}
+
+/**** End Default Theme ****/ 

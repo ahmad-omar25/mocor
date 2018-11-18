@@ -1,0 +1,152 @@
+/* Start About Us */
+
+.breadcrumb-holder
+{
+    background-color: #F5F5F5;
+}
+
+.breadcrumb
+{
+    padding: 10px 0;
+    margin: 0
+}
+
+.about-us
+{
+    padding: 20px 0
+}
+
+.about-us h1
+{
+    font-family: 'Niramit', sans-serif;
+    font-size: 65px
+}
+
+.about-us hr
+{
+    width: 75%;
+    border-top: 2px solid #ddd
+}
+
+.about-us strong
+{
+    font-size: 35px;
+    font-family: 'Niramit', sans-serif;
+}
+
+.about-us p 
+{
+    font-size: 20px;
+}
+
+/* End About Us */
+
+
+.about-features
+{
+    padding: 10px 0 40px;
+}
+
+.about-features h3
+{
+    font-family: 'Niramit', sans-serif;
+}
+
+.about-features p 
+{
+    margin-bottom: 20px;
+}
+
+
+/* Start FAQ */
+
+.faq
+{
+    padding: 10px 0
+}
+
+.faq .card
+{
+    background: #DDD;
+    margin-bottom: 25px;        
+}
+
+.faq .card p 
+{
+    background: #fff;
+}
+
+/* End FAQ */
+
+
+/* Statr Map */
+
+.map
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Pattaya', sans-serif;
+}
+
+.map h1
+{
+    font-family: 'Niramit', sans-serif;
+    font-size: 65px;
+}
+
+.map iframe
+{
+    width: 100%;
+    height: 300px;
+}
+
+.map-info 
+{
+    padding-bottom: 50px;
+    background: #DDD;
+}
+
+.map-info h3
+{
+    font-family: 'Niramit', sans-serif;
+    font-size: 50px;
+}
+
+.map-info .map-a .fa
+{
+    margin-right: 5px;
+}
+
+.map-info .map-a span
+{
+    font-weight: bold;
+    color: #31708f
+}
+
+.map-info .map-a a
+{
+    color: #e2413e
+}
+
+.map-info textarea
+{
+    height: 117px;
+    width: 100%;
+    
+    margin-bottom: 10px;
+}
+
+.map-info input
+{
+    margin-bottom: 20px;
+}
+
+
+h1,
+h2,
+h3
+{
+    font-family: 'Niramit', sans-serif;
+}
+
+/* End Map */
