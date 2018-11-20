@@ -1,0 +1,526 @@
+
+/* Start Section Navbar */
+
+body
+{
+    background: #eeeeee8c
+}
+.navbar
+{
+    background: #ebebeb;
+    padding: 7px
+}
+
+
+
+.navbar-inverse .navbar-nav > li > a
+{
+    color: #222;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 17px;
+}
+
+
+.navbar-inverse .navbar-nav > li > a:hover
+{
+    color: #31b9fd;
+    background: none;
+}
+ .navbar-toggle
+{
+    background: #222
+}
+
+.carousel
+{
+    margin: 20px 0
+}
+
+.carousel-inner img
+{
+    width: 100%;;
+    height: 100%;
+    padding-top: 46px
+
+    
+
+}
+
+/* End Section Navbar */
+
+/* Start Section About Us */
+
+.about-us
+{
+    background: #00aaff;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.about-us h2
+{
+    color: #fff;
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.about-us h4
+{
+    color: #cae6f7;
+    font-size: 20px;
+}
+
+.about-us button
+{
+    float: right;
+    border: 0;
+    padding : 15px 50px;
+    margin-top: -70px;
+    background: #222;
+    color: #fff
+}
+
+.about-us button:hover
+{
+    background: #fff;
+    color: #222
+}
+
+/* Ennd Section About Us */
+
+/* Start Section Services */
+
+.services 
+{
+    background: #00aaff;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+
+.services h4
+{
+    font-size: 13px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.services hr
+{
+    width: 95%;
+    float: left;
+    margin-top: 0;     
+}
+
+.services .col-sm-4
+{
+    margin-bottom: 50px;
+    margin-top: 50px; 
+}
+
+.services img
+{
+    width: 15%
+}
+
+.services h5
+{
+    padding-top: 10px;
+    color: azure
+}
+
+.services p
+{
+    color: #ddd
+}
+
+/* End Section Services */
+
+
+
+
+
+/* Start Section Who We Are */
+
+.are
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #1a1b23;
+}
+
+.are h1 
+{
+    color: #fff;
+    margin-bottom: 30px;
+}
+.are p
+{
+    color: #7b7b7c;
+}
+
+/* End Section Who We Are */
+
+
+
+
+
+
+/* Start Website Design */
+
+.design
+{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background: #1a1b23; 
+}
+
+.design .how2 h2
+{
+    padding-top: 150px;
+    font-size: 35px;
+    color: #fff;
+}
+
+.design .how2 h4
+{
+    color:#1a709e;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+
+.design .how2 p
+{
+    font-size: 18px;
+    color: #7b7b7c
+}
+
+.design .how2 button
+{
+    background: #00aaff;
+    border: 0;
+    padding : 15px 50px;
+    margin-top: 30px;  
+    color: #fff
+}
+
+.design .how2 button:hover
+{
+    background: #b80c09; 
+}
+
+.design .how1 img
+{ 
+    padding-top: 150px;
+    width: 100%    
+}
+
+/* End Website Design */
+
+
+
+
+
+
+
+
+/* Start Search Engine */
+
+.Engine
+{
+    padding-top: 150px;
+    padding-bottom: 50px;
+    background: #1a1b23;
+}
+
+.Engine .eng-1 h2
+{
+    font-size: 35px;
+    color: #fff;
+}
+
+.Engine .eng-1 h4
+{
+    color:#1a709e;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+
+.Engine .eng-1 p
+{
+    font-size: 18px;
+    color: #7b7b7c
+}
+
+.Engine .eng-1 button
+{
+    background: #00aaff;
+    border: 0;
+    padding : 15px 50px;
+    margin-top: 30px;  
+    color: #fff
+}
+
+.Engine .eng-1 button:hover
+{
+    background: #b80c09; 
+}
+
+.Engine .eng-2 img
+{ 
+    padding-top: 80px;
+    width: 85%    
+}
+
+/* End Search Engine */
+
+
+
+
+/* Start Search MARKETING WORKS */
+
+.marketing
+{
+    padding-top: 70px;
+    padding-bottom: 100px;
+    background: #1a1b23;    
+}
+
+.marketing h1
+{
+    color: #fff
+}
+
+
+
+
+.marketing .lead
+{
+    color: #fff;
+    margin-bottom: 100px
+}
+
+
+
+.marketing .box h4
+{
+    color: #ccccccd1;
+    padding-top: 20px
+}
+
+.marketing .box p
+{
+    color: #919192;
+    margin-bottom: 50px;
+}
+
+
+.marketing .box i:hover
+{
+    background: #b80c09;
+    color: #fff
+}
+
+.marketing .box i 
+{
+    color: #acaca5;
+    width: 150px;
+    height: 150px;
+    background: #1a1b23;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    border: 2px solid #b80c09;
+    line-height: 140px;
+}
+
+/* End Search MARKETING WORKS */
+
+
+/* Start MARKETING WORKS  */
+
+.modern
+{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    background: #fbfbfb;
+}
+
+.modern p 
+{
+    color: #222;
+    padding-bottom: 20px;
+}
+
+.modern img
+{
+    margin-left: 100px;
+    padding-bottom: 30px
+}
+
+/* End MARKETING WORKS  */
+
+
+
+/* Statr Section Our Clients */
+
+.our-clients
+{
+    padding-bottom: 30px;
+    background: #fbfbfb;
+    padding-top: 40px
+}
+
+.our-clients h3
+{
+    color: #2c9cd4;
+    font-size: 25px
+}
+
+.our-clients hr
+{
+    border: 0.5px solid #cecaca;
+    margin-bottom: 50px;
+    margin-top: 1px
+}
+
+.our-clients img
+{
+    width: 130%;
+    margin-bottom: 50px
+}
+
+.our-clients .ff
+{
+    border: 0.5px solid #cecaca;
+}
+
+/* End Section Our Clients */
+
+
+
+
+
+
+/* Start Section Contact Us */
+
+.contact-us
+{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: #00aaff
+}
+
+.contact-us h1
+
+{
+    color: #fff;
+    font-size: 35px ;
+    font-weight: bold
+}
+
+.contact-us hr
+{
+    width: 10%;
+    border-top: 2px solid #FFF;
+    margin-top: 2px     
+}
+
+.contact-us p
+{
+    color: #a5ddff;
+    font-size: 17px
+}
+
+.contact-us h4
+{
+    padding-top: 20px;
+    font-size: 15px;
+    color: #808080;
+}
+
+.contact-us .form-control
+{
+    width: 70%;
+    background: #00aaff;
+    border: 2px solid #fff    
+}
+
+.contact-us .form-control:hover
+{
+    background: #32bbff;
+    color: #fff
+}
+
+.contact-us textarea
+{
+    height: 100px;
+}
+
+.contact-us button
+{
+    border: 0;
+    padding : 12px 65px;
+    margin-top: 10px;
+    background: #222;
+    color: #fff
+}
+
+.contact-us button:hover
+{
+    background: #fff;
+    color: #222
+}
+
+
+/* End Section Contact Us */
+
+
+
+/* Start Section Footr */
+
+.footr
+{
+    padding: 40px;
+    background: #1a1b23;
+    border-top: 1px solid #fff
+}
+
+.footr h3
+{
+    color: #029fee
+}
+
+.footr h4, h5
+{
+    color: #595a5b
+}
+
+.footr span
+{
+    color: #029fee
+}
+
+/* End Section Footr */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
